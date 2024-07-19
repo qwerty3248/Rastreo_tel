@@ -1,2 +1,5 @@
-# Rastreo_tel
-Rastrea tu telefono
+pip install phonenumbers
+
+pip install opencage
+
+pip install folium
